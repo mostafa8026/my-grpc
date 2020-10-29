@@ -1,3 +1,6 @@
 [submodule "golang-grpc"]
 	path = golang-grpc
 	url = git@github.com:mostafa8026/golang-grpc.git
+[submodule "grpc-protoc"]
+	path = grpc-protoc
+	url = git@github.com:mostafa8026/grpc-protoc.git
