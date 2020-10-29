@@ -4,3 +4,6 @@
 [submodule "grpc-protoc"]
 	path = grpc-protoc
 	url = git@github.com:mostafa8026/grpc-protoc.git
+[submodule "csharp-grpc"]
+	path = csharp-grpc
+	url = git@github.com:mostafa8026/csharp-grpc.git
